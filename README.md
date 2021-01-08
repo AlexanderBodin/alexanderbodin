@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/bodinalexander" target="_blank">
+<a href="https://www.linkedin.com/in/bodinalexander">
   <img src="https://img.shields.io/badge/linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.twitter.com/alexanderbodin_" target="_blank" rel="noopener">
+<a href="https://www.twitter.com/alexanderbodin_">
   <img src="https://img.shields.io/badge/twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.keybase.io/alexanderbodin" target="_blank" rel="noopener">
+<a href="https://www.keybase.io/alexanderbodin">
   <img src="https://img.shields.io/badge/keybase-323330?style=for-the-badge&logo=keybase&logoColor=white" />
 </a>&nbsp;&nbsp;
 
