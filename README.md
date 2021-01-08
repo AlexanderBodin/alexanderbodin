@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/bodinalexander" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/bodinalexander" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.twitter.com/alexanderbodin_" target="_blank" rel="noopener">
