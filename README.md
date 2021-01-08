@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/bodinalexander">
   <img src="https://img.shields.io/badge/linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://www.xing.com/profile/Alexander_Bodin2">
+  <img src="https://img.shields.io/badge/xing-323330?style=for-the-badge&logo=xing&logoColor=white" />
+  </a>&nbsp;&nbsp;
 <a href="https://www.twitter.com/alexanderbodin_">
   <img src="https://img.shields.io/badge/twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
