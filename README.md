@@ -28,5 +28,9 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/alexanderbodin">
   <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?style=for-the-badge&labelColor=black&color=black&logo=buy-me-a-coffee&logoColor=white" />
 </a>&nbsp;&nbsp;
-
+<!--
+<a href="https://www.buymeacoffee.com/alexanderbodin">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&labelColor=black&color=black&logo=youtube&logoColor=white" />
+</a>&nbsp;&nbsp;
+  -->
 </p>
