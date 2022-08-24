@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.xing.com/profile/Alexander_Bodin2">
   <img src="https://img.shields.io/badge/xing-323330?style=for-the-badge&logo=xing&logoColor=white" />
   </a>&nbsp;&nbsp;
-<a href="https://www.twitter.com/alexanderbodin_">
+<a href="https://www.twitter.com/alexanderbodin">
   <img src="https://img.shields.io/badge/twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.keybase.io/alexanderbodin">
