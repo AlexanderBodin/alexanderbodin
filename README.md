@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-
 <a href="https://www.linkedin.com/in/bodinalexander">
   <img src="https://img.shields.io/badge/linkedin-323330?style=for-the-badge&labelColor=black&color=black&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -25,6 +24,9 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp;
 <a href="https://www.keybase.io/alexanderbodin">
   <img src="https://img.shields.io/badge/keybase-323330?style=for-the-badge&labelColor=black&color=black&logo=keybase&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/alexanderbodin">
+  <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?style=for-the-badge&labelColor=black&color=black&logo=buy-me-a-coffee&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 </p>
