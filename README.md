@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/keybase-323330?style=for-the-badge&labelColor=black&color=black&logo=keybase&logoColor=white" />
 </a>&nbsp;&nbsp;-->
 
-I am an experienced Agile Coach with over 9 years of experience in the IT industry. I have successfully coached and trained people from all departments and hierarchies in Agile methodology, and have supported IT companies on their journey. 
+I am an passionate Agile Coach with over 9 years of experience in the IT industry. I have successfully coached and trained people from all departments and hierarchies in Agile methodology, and have supported IT companies on their journey. 
 My focus is on helping organizations and teams to adopt and improve their Agile practices to achieve better outcomes, such as increased productivity, better quality, and higher customer satisfaction.
 
 
